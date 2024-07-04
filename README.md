@@ -1,4 +1,4 @@
-## Olá, sou o Gustavo Arruda!!!
+## Olá, sou o Gustavo!!!
 
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoarruda1&layout=compact&theme=tokyonight)
